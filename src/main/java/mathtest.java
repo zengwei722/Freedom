@@ -6,7 +6,7 @@ public class mathtest {
                 System.out.println(i);
                 break;
             }
-            i++;
+            i++;////11111
         }
 
     }
